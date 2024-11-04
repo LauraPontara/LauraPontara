@@ -40,25 +40,36 @@
 ###
 
 <br clear="both">
-<div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LauraPontara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LauraPontara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&order=2" height="157" alt="languages graph"  />
+
+<div align="center">
+
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <!-- Coluna dos cards -->
+      <td align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=LauraPontara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LauraPontara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&order=2" height="157" alt="languages graph"  />
+      </td>
+      <!-- Coluna da imagem -->
+      <td align="center" valign="top">
+        <img height="340" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="animated image" />
+      </td>
+    </tr>
+    
+  </table>
+
 </div>
 
-
-
-<img align="right" height="340" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
-</div>
 
 ###
 
 <br clear="both">
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauraPontara&theme=tokyo-night&radius=12&area=true" height="249" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=LauraPontara&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=LauraPontara&theme=tokyonight&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauraPontara&theme=tokyo-night&radius=12&area=true" height="249" alt="activity-graph graph"  />
 </div>
 
 ###
