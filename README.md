@@ -58,8 +58,8 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LauraPontara&theme=tokyo-night&radius=12&area=true" alt="activity-graph graph" />
-  <img width="55%"src="https://streak-stats.demolab.com?user=LauraPontara&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph"  />
-  <img width="44%"src="https://github-profile-trophy.vercel.app?username=LauraPontara&theme=tokyonight&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" alt="trophy graph" />
+  <img width="61.5%"src="https://streak-stats.demolab.com?user=LauraPontara&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph"  />
+  <img width="37.5%"src="https://github-profile-trophy.vercel.app?username=LauraPontara&theme=tokyonight&column=3&row=2&margin-w=5&margin-h=1&no-frame=false&no-bg=true" alt="trophy graph" />
 </div>
 
 ###
