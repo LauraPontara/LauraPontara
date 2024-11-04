@@ -1,6 +1,7 @@
 <div align = "center">
 <h1 align="left">Hi👋! Be welcome ;) I'm Laura Pontara</h1>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fb22cf&height=120&section=header"/>
+  
 ###
 
 <br clear="both">
