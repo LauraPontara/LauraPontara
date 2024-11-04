@@ -57,9 +57,9 @@
 <br clear="both">
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauraPontara&theme=tokyo-night&radius=12&area=true" height="249" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=LauraPontara&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=LauraPontara&theme=tokyonight&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauraPontara&theme=tokyo-night&radius=12&area=true" alt="activity-graph graph" min-width="800px" max-width="1000px" width="1000px"  />
+  <img src="https://streak-stats.demolab.com?user=LauraPontara&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" min-width="444px" max-width="555px" width="555px" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=LauraPontara&theme=tokyonight&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" alt="trophy graph" min-width="356px" max-width="445px" width="445px" />
 </div>
 
 ###
