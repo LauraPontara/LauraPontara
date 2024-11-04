@@ -1,4 +1,5 @@
-<h2 align="left">Hi👋! Be welcome ;) I'm Laura Pontara</h2>
+<div align = "center">
+<h1 align="left">Hi👋! Be welcome ;) I'm Laura Pontara</h1>
 
 ###
 
@@ -40,6 +41,7 @@
 ###
 
 <br clear="both">
+</div>
 
 <div align="center">
 
