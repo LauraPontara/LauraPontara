@@ -1,6 +1,11 @@
-<div align = "center">
-<h1 align="left">Hi👋! Be welcome ;) I'm Laura Pontara</h1>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fb22cf&height=120&section=header"/>
+
+<div align="center">
+
+Hi👋! Be welcome to my profile ;) I'm Laura Pontara
+  <img width=100% src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9873fe&height=120&section=header"/>
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
@@ -40,24 +45,18 @@
 <br clear="both">
 </div>
 
-<div align="center">
-
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <!-- Coluna dos cards -->
-      <td align="left">
+<div class= "container-fluid" align="center">
+  <div class="row">
+      <div class= "col" align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=LauraPontara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LauraPontara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&order=2" height="157" alt="languages graph"  />
-      </td>
+      </div>
       <!-- Coluna da imagem -->
-      <td align="center" valign="top">
+      <div class="col" align="right" valign="top">
         <img height="340" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="animated image" />
-      </td>
-    </tr>
-    
-  </table>
-
+      </div>
+  </div>
 </div>
 
 
@@ -83,4 +82,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LauraPontara.LauraPontara&left_color=darkviolet&right_color=darkorchid&left_text=Visualiza%C3%A7%C3%B5es%20no%20perfil:" width="300" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fb22cf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9873fe&height=120&section=footer"/>
+
