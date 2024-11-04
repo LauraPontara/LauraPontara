@@ -1,9 +1,6 @@
 
 <div align="center">
-
-Hi👋! Be welcome to my profile ;) I'm Laura Pontara
-  <img width=100% src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
-
+<h1>Hi👋! Be welcome to my profile ;) I'm Laura Pontara</h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9873fe&height=120&section=header"/>
 </div>
 
@@ -63,7 +60,7 @@ Hi👋! Be welcome to my profile ;) I'm Laura Pontara
 ###
 
 <br clear="both">
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauraPontara&theme=tokyo-night&radius=12&area=true" height="249" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=LauraPontara&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  />
