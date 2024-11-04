@@ -1,10 +1,6 @@
 <div align = "center">
 <h1 align="left">Hi👋! Be welcome ;) I'm Laura Pontara</h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fb22cf&height=120&section=header"/>
-  
-###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
@@ -87,4 +83,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LauraPontara.LauraPontara&left_color=darkviolet&right_color=darkorchid&left_text=Visualiza%C3%A7%C3%B5es%20no%20perfil:" width="300" />
 </div>
 
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fb22cf&height=120&section=footer"/>
