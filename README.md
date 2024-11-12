@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>Hi👋! Be welcome to my profile ;) I'm Laura Pontara</h1>
+<h1>Hi!👋 Be welcome to my profile ;) I'm Laura Pontara</h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9873fe&height=120&section=header"/>
 </div>
 
